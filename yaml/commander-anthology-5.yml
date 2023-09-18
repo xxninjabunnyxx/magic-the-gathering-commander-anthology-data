@@ -1,0 +1,113 @@
+---
+object: card
+id: b15514f0-0dd8-4e49-a56e-ed829f4c9623
+oracle_id: 19e302f8-6ddb-4a43-98bc-ee71a456ac5a
+multiverse_ids:
+- 430224
+tcgplayer_id: 131963
+cardmarket_id: 297954
+name: Archangel of Strife
+lang: en
+released_at: '2017-06-09'
+uri: https://api.scryfall.com/cards/b15514f0-0dd8-4e49-a56e-ed829f4c9623
+scryfall_uri: https://scryfall.com/card/cma/5/archangel-of-strife?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/1/b15514f0-0dd8-4e49-a56e-ed829f4c9623.jpg?1592672324
+  normal: https://cards.scryfall.io/normal/front/b/1/b15514f0-0dd8-4e49-a56e-ed829f4c9623.jpg?1592672324
+  large: https://cards.scryfall.io/large/front/b/1/b15514f0-0dd8-4e49-a56e-ed829f4c9623.jpg?1592672324
+  png: https://cards.scryfall.io/png/front/b/1/b15514f0-0dd8-4e49-a56e-ed829f4c9623.png?1592672324
+  art_crop: https://cards.scryfall.io/art_crop/front/b/1/b15514f0-0dd8-4e49-a56e-ed829f4c9623.jpg?1592672324
+  border_crop: https://cards.scryfall.io/border_crop/front/b/1/b15514f0-0dd8-4e49-a56e-ed829f4c9623.jpg?1592672324
+mana_cost: "{5}{W}{W}"
+cmc: 7.0
+type_line: Creature — Angel
+oracle_text: |-
+  Flying
+  As Archangel of Strife enters the battlefield, each player chooses war or peace.
+  Creatures controlled by players who chose war get +3/+0.
+  Creatures controlled by players who chose peace get +0/+3.
+power: '6'
+toughness: '6'
+colors:
+- W
+color_identity:
+- W
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: fd4d8463-0156-4c60-a40e-778762bb90e4
+set: cma
+set_name: Commander Anthology
+set_type: commander
+set_uri: https://api.scryfall.com/sets/fd4d8463-0156-4c60-a40e-778762bb90e4
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Acma&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/cma?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/b15514f0-0dd8-4e49-a56e-ed829f4c9623/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A19e302f8-6ddb-4a43-98bc-ee71a456ac5a&unique=prints
+collector_number: '5'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Greg Staples
+artist_ids:
+- 93d65564-bf00-447b-8406-e2031f03b6b1
+illustration_id: eb03995e-1748-44ca-890b-c36795829fa5
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 12763
+prices:
+  usd: '0.71'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.25'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430224
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Archangel+of+Strife&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Archangel+of+Strife&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Archangel+of+Strife
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/131963?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Archangel+of+Strife&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Archangel+of+Strife&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

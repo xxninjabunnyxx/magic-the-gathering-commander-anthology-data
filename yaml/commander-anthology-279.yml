@@ -1,0 +1,111 @@
+---
+object: card
+id: 28272487-17fa-4d07-992f-9740b7f4e85f
+oracle_id: 9f8fe514-77ed-41b4-a6f3-c6f095bb97be
+multiverse_ids:
+- 430498
+tcgplayer_id: 132200
+cardmarket_id: 298227
+name: Tranquil Thicket
+lang: en
+released_at: '2017-06-09'
+uri: https://api.scryfall.com/cards/28272487-17fa-4d07-992f-9740b7f4e85f
+scryfall_uri: https://scryfall.com/card/cma/279/tranquil-thicket?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/2/8/28272487-17fa-4d07-992f-9740b7f4e85f.jpg?1592673969
+  normal: https://cards.scryfall.io/normal/front/2/8/28272487-17fa-4d07-992f-9740b7f4e85f.jpg?1592673969
+  large: https://cards.scryfall.io/large/front/2/8/28272487-17fa-4d07-992f-9740b7f4e85f.jpg?1592673969
+  png: https://cards.scryfall.io/png/front/2/8/28272487-17fa-4d07-992f-9740b7f4e85f.png?1592673969
+  art_crop: https://cards.scryfall.io/art_crop/front/2/8/28272487-17fa-4d07-992f-9740b7f4e85f.jpg?1592673969
+  border_crop: https://cards.scryfall.io/border_crop/front/2/8/28272487-17fa-4d07-992f-9740b7f4e85f.jpg?1592673969
+mana_cost: ''
+cmc: 0.0
+type_line: Land
+oracle_text: |-
+  Tranquil Thicket enters the battlefield tapped.
+  {T}: Add {G}.
+  Cycling {G} ({G}, Discard this card: Draw a card.)
+colors: []
+color_identity:
+- G
+keywords:
+- Cycling
+produced_mana:
+- G
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: fd4d8463-0156-4c60-a40e-778762bb90e4
+set: cma
+set_name: Commander Anthology
+set_type: commander
+set_uri: https://api.scryfall.com/sets/fd4d8463-0156-4c60-a40e-778762bb90e4
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Acma&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/cma?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/28272487-17fa-4d07-992f-9740b7f4e85f/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9f8fe514-77ed-41b4-a6f3-c6f095bb97be&unique=prints
+collector_number: '279'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Heather Hudson
+artist_ids:
+- 4441fe52-9e41-40c1-9b74-8510426279ab
+illustration_id: bea0bfca-aeaa-4a84-9198-d763908059c9
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 815
+penny_rank: 693
+prices:
+  usd: '0.29'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.26'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430498
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Tranquil+Thicket&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Tranquil+Thicket&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Tranquil+Thicket
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/132200?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Tranquil+Thicket&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Tranquil+Thicket&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

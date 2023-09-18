@@ -1,0 +1,111 @@
+---
+object: card
+id: 9d3f1b57-3353-4b88-abe9-98a3234a25f3
+oracle_id: 613a41b8-0b4f-4995-bf1e-ca41f96e6438
+multiverse_ids:
+- 430251
+tcgplayer_id: 131983
+cardmarket_id: 297979
+name: Blue Sun's Zenith
+lang: en
+released_at: '2017-06-09'
+uri: https://api.scryfall.com/cards/9d3f1b57-3353-4b88-abe9-98a3234a25f3
+scryfall_uri: https://scryfall.com/card/cma/32/blue-suns-zenith?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/d/9d3f1b57-3353-4b88-abe9-98a3234a25f3.jpg?1592672495
+  normal: https://cards.scryfall.io/normal/front/9/d/9d3f1b57-3353-4b88-abe9-98a3234a25f3.jpg?1592672495
+  large: https://cards.scryfall.io/large/front/9/d/9d3f1b57-3353-4b88-abe9-98a3234a25f3.jpg?1592672495
+  png: https://cards.scryfall.io/png/front/9/d/9d3f1b57-3353-4b88-abe9-98a3234a25f3.png?1592672495
+  art_crop: https://cards.scryfall.io/art_crop/front/9/d/9d3f1b57-3353-4b88-abe9-98a3234a25f3.jpg?1592672495
+  border_crop: https://cards.scryfall.io/border_crop/front/9/d/9d3f1b57-3353-4b88-abe9-98a3234a25f3.jpg?1592672495
+mana_cost: "{X}{U}{U}{U}"
+cmc: 3.0
+type_line: Instant
+oracle_text: Target player draws X cards. Shuffle Blue Sun's Zenith into its owner's
+  library.
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: fd4d8463-0156-4c60-a40e-778762bb90e4
+set: cma
+set_name: Commander Anthology
+set_type: commander
+set_uri: https://api.scryfall.com/sets/fd4d8463-0156-4c60-a40e-778762bb90e4
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Acma&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/cma?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/9d3f1b57-3353-4b88-abe9-98a3234a25f3/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A613a41b8-0b4f-4995-bf1e-ca41f96e6438&unique=prints
+collector_number: '32'
+digital: false
+rarity: rare
+flavor_text: |-
+  "The Origin Query will wait. We must ensure we survive to return to it."
+  —Pelyus, vedalken ordinar
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Izzy
+artist_ids:
+- 2c3d2473-ff5d-4309-8194-e0b2def2ab65
+illustration_id: 6f6a062d-3d7c-41f2-9b6e-9a8b95d974b4
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 760
+penny_rank: 808
+prices:
+  usd: '2.27'
+  usd_foil: 
+  usd_etched: 
+  eur: '1.38'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430251
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Blue+Sun%27s+Zenith&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Blue+Sun%27s+Zenith&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Blue+Sun%27s+Zenith
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/131983?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Blue+Sun%27s+Zenith&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Blue+Sun%27s+Zenith&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

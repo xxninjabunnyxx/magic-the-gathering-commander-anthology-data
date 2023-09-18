@@ -1,0 +1,110 @@
+---
+object: card
+id: fa151bd1-770b-49fe-9db5-aae373fab934
+oracle_id: b9019332-2f02-48d9-be0a-a2b41b79e136
+multiverse_ids:
+- 430286
+tcgplayer_id: 132155
+cardmarket_id: 298016
+name: Sever the Bloodline
+lang: en
+released_at: '2017-06-09'
+uri: https://api.scryfall.com/cards/fa151bd1-770b-49fe-9db5-aae373fab934
+scryfall_uri: https://scryfall.com/card/cma/67/sever-the-bloodline?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/a/fa151bd1-770b-49fe-9db5-aae373fab934.jpg?1592672711
+  normal: https://cards.scryfall.io/normal/front/f/a/fa151bd1-770b-49fe-9db5-aae373fab934.jpg?1592672711
+  large: https://cards.scryfall.io/large/front/f/a/fa151bd1-770b-49fe-9db5-aae373fab934.jpg?1592672711
+  png: https://cards.scryfall.io/png/front/f/a/fa151bd1-770b-49fe-9db5-aae373fab934.png?1592672711
+  art_crop: https://cards.scryfall.io/art_crop/front/f/a/fa151bd1-770b-49fe-9db5-aae373fab934.jpg?1592672711
+  border_crop: https://cards.scryfall.io/border_crop/front/f/a/fa151bd1-770b-49fe-9db5-aae373fab934.jpg?1592672711
+mana_cost: "{3}{B}"
+cmc: 4.0
+type_line: Sorcery
+oracle_text: |-
+  Exile target creature and all other creatures with the same name as that creature.
+  Flashback {5}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+colors:
+- B
+color_identity:
+- B
+keywords:
+- Flashback
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: fd4d8463-0156-4c60-a40e-778762bb90e4
+set: cma
+set_name: Commander Anthology
+set_type: commander
+set_uri: https://api.scryfall.com/sets/fd4d8463-0156-4c60-a40e-778762bb90e4
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Acma&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/cma?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/fa151bd1-770b-49fe-9db5-aae373fab934/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab9019332-2f02-48d9-be0a-a2b41b79e136&unique=prints
+collector_number: '67'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Clint Cearley
+artist_ids:
+- 03b75350-d5a0-4e3a-b3b4-8d4a5554385b
+illustration_id: b9847583-8b7a-40eb-9cd6-e76fb976394c
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 12004
+penny_rank: 1513
+prices:
+  usd: '0.14'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.05'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430286
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Sever+the+Bloodline&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Sever+the+Bloodline&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Sever+the+Bloodline
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/132155?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Sever+the+Bloodline&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Sever+the+Bloodline&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,123 @@
+---
+object: card
+id: 57c95805-54c5-47af-9d7f-21dd8f970aac
+oracle_id: ab42398c-f0a1-4b94-ac5f-b8768e1b4e05
+multiverse_ids:
+- 430354
+tcgplayer_id: 132122
+cardmarket_id: 298084
+name: Presence of Gond
+lang: en
+released_at: '2017-06-09'
+uri: https://api.scryfall.com/cards/57c95805-54c5-47af-9d7f-21dd8f970aac
+scryfall_uri: https://scryfall.com/card/cma/135/presence-of-gond?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/5/7/57c95805-54c5-47af-9d7f-21dd8f970aac.jpg?1592673123
+  normal: https://cards.scryfall.io/normal/front/5/7/57c95805-54c5-47af-9d7f-21dd8f970aac.jpg?1592673123
+  large: https://cards.scryfall.io/large/front/5/7/57c95805-54c5-47af-9d7f-21dd8f970aac.jpg?1592673123
+  png: https://cards.scryfall.io/png/front/5/7/57c95805-54c5-47af-9d7f-21dd8f970aac.png?1592673123
+  art_crop: https://cards.scryfall.io/art_crop/front/5/7/57c95805-54c5-47af-9d7f-21dd8f970aac.jpg?1592673123
+  border_crop: https://cards.scryfall.io/border_crop/front/5/7/57c95805-54c5-47af-9d7f-21dd8f970aac.jpg?1592673123
+mana_cost: "{2}{G}"
+cmc: 3.0
+type_line: Enchantment — Aura
+oracle_text: |-
+  Enchant creature
+  Enchanted creature has "{T}: Create a 1/1 green Elf Warrior creature token."
+colors:
+- G
+color_identity:
+- G
+keywords:
+- Enchant
+all_parts:
+- object: related_card
+  id: 57c95805-54c5-47af-9d7f-21dd8f970aac
+  component: combo_piece
+  name: Presence of Gond
+  type_line: Enchantment — Aura
+  uri: https://api.scryfall.com/cards/57c95805-54c5-47af-9d7f-21dd8f970aac
+- object: related_card
+  id: 87cbace2-8507-44b6-8d57-2d409a036e50
+  component: token
+  name: Elf Warrior
+  type_line: Token Creature — Elf Warrior
+  uri: https://api.scryfall.com/cards/87cbace2-8507-44b6-8d57-2d409a036e50
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: fd4d8463-0156-4c60-a40e-778762bb90e4
+set: cma
+set_name: Commander Anthology
+set_type: commander
+set_uri: https://api.scryfall.com/sets/fd4d8463-0156-4c60-a40e-778762bb90e4
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Acma&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/cma?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/57c95805-54c5-47af-9d7f-21dd8f970aac/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aab42398c-f0a1-4b94-ac5f-b8768e1b4e05&unique=prints
+collector_number: '135'
+digital: false
+rarity: common
+flavor_text: '"Here lies Gond, hero of Safehold Taldwen. May he ever guide our quest."'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Brandon Kitkouski
+artist_ids:
+- 0330b5e8-2cf0-4ecb-8fd7-e20a18bdeb20
+illustration_id: 4e2df9ad-6761-422c-a023-a5553027a6e3
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 6279
+penny_rank: 2837
+prices:
+  usd: '0.29'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.13'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430354
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Presence+of+Gond&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Presence+of+Gond&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Presence+of+Gond
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/132122?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Presence+of+Gond&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Presence+of+Gond&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

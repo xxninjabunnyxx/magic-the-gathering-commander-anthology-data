@@ -1,0 +1,114 @@
+---
+object: card
+id: 2e53342b-2df4-4a4e-969f-1e71e45e394d
+oracle_id: 3055381a-fb6b-47a3-8e77-a44768808e27
+multiverse_ids:
+- 430276
+tcgplayer_id: 132025
+cardmarket_id: 298004
+name: Eater of Hope
+lang: en
+released_at: '2017-06-09'
+uri: https://api.scryfall.com/cards/2e53342b-2df4-4a4e-969f-1e71e45e394d
+scryfall_uri: https://scryfall.com/card/cma/57/eater-of-hope?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/2/e/2e53342b-2df4-4a4e-969f-1e71e45e394d.jpg?1592672646
+  normal: https://cards.scryfall.io/normal/front/2/e/2e53342b-2df4-4a4e-969f-1e71e45e394d.jpg?1592672646
+  large: https://cards.scryfall.io/large/front/2/e/2e53342b-2df4-4a4e-969f-1e71e45e394d.jpg?1592672646
+  png: https://cards.scryfall.io/png/front/2/e/2e53342b-2df4-4a4e-969f-1e71e45e394d.png?1592672646
+  art_crop: https://cards.scryfall.io/art_crop/front/2/e/2e53342b-2df4-4a4e-969f-1e71e45e394d.jpg?1592672646
+  border_crop: https://cards.scryfall.io/border_crop/front/2/e/2e53342b-2df4-4a4e-969f-1e71e45e394d.jpg?1592672646
+mana_cost: "{5}{B}{B}"
+cmc: 7.0
+type_line: Creature — Demon
+oracle_text: |-
+  Flying
+  {B}, Sacrifice another creature: Regenerate Eater of Hope.
+  {2}{B}, Sacrifice two other creatures: Destroy target creature.
+power: '6'
+toughness: '4'
+colors:
+- B
+color_identity:
+- B
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: fd4d8463-0156-4c60-a40e-778762bb90e4
+set: cma
+set_name: Commander Anthology
+set_type: commander
+set_uri: https://api.scryfall.com/sets/fd4d8463-0156-4c60-a40e-778762bb90e4
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Acma&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/cma?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/2e53342b-2df4-4a4e-969f-1e71e45e394d/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3055381a-fb6b-47a3-8e77-a44768808e27&unique=prints
+collector_number: '57'
+digital: false
+rarity: rare
+flavor_text: Gods can be appeased. Demons, however . . .
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Peter Mohrbacher
+artist_ids:
+- c8f27311-46a5-4eaf-9b2e-d660ed1db649
+illustration_id: a9f5ada9-e831-4be7-b9a0-f662d9b46141
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 9840
+penny_rank: 13333
+prices:
+  usd: '0.15'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.12'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430276
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Eater+of+Hope&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Eater+of+Hope&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Eater+of+Hope
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/132025?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Eater+of+Hope&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Eater+of+Hope&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

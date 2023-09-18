@@ -1,0 +1,111 @@
+---
+object: card
+id: 7c2c00cd-4330-4760-bf42-fa18c96da813
+oracle_id: e88027a6-24cc-4a8b-86db-734f26149ea8
+multiverse_ids:
+- 430482
+tcgplayer_id: 132105
+cardmarket_id: 298211
+name: Oran-Rief, the Vastwood
+lang: en
+released_at: '2017-06-09'
+uri: https://api.scryfall.com/cards/7c2c00cd-4330-4760-bf42-fa18c96da813
+scryfall_uri: https://scryfall.com/card/cma/263/oran-rief-the-vastwood?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/7/c/7c2c00cd-4330-4760-bf42-fa18c96da813.jpg?1592673880
+  normal: https://cards.scryfall.io/normal/front/7/c/7c2c00cd-4330-4760-bf42-fa18c96da813.jpg?1592673880
+  large: https://cards.scryfall.io/large/front/7/c/7c2c00cd-4330-4760-bf42-fa18c96da813.jpg?1592673880
+  png: https://cards.scryfall.io/png/front/7/c/7c2c00cd-4330-4760-bf42-fa18c96da813.png?1592673880
+  art_crop: https://cards.scryfall.io/art_crop/front/7/c/7c2c00cd-4330-4760-bf42-fa18c96da813.jpg?1592673880
+  border_crop: https://cards.scryfall.io/border_crop/front/7/c/7c2c00cd-4330-4760-bf42-fa18c96da813.jpg?1592673880
+mana_cost: ''
+cmc: 0.0
+type_line: Land
+oracle_text: |-
+  Oran-Rief, the Vastwood enters the battlefield tapped.
+  {T}: Add {G}.
+  {T}: Put a +1/+1 counter on each green creature that entered the battlefield this turn.
+colors: []
+color_identity:
+- G
+keywords: []
+produced_mana:
+- G
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: fd4d8463-0156-4c60-a40e-778762bb90e4
+set: cma
+set_name: Commander Anthology
+set_type: commander
+set_uri: https://api.scryfall.com/sets/fd4d8463-0156-4c60-a40e-778762bb90e4
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Acma&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/cma?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/7c2c00cd-4330-4760-bf42-fa18c96da813/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae88027a6-24cc-4a8b-86db-734f26149ea8&unique=prints
+collector_number: '263'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Mike Bierek
+artist_ids:
+- e5f52ef5-1a2e-4128-90b0-ccc71cd47ea7
+illustration_id: 76a20bdd-443e-4a77-bfe4-8149db1a3625
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 537
+penny_rank: 4053
+prices:
+  usd: '0.62'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.40'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430482
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Oran-Rief%2C+the+Vastwood&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Oran-Rief%2C+the+Vastwood&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Oran-Rief%2C+the+Vastwood
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/132105?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Oran-Rief%2C+the+Vastwood&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Oran-Rief%2C+the+Vastwood&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

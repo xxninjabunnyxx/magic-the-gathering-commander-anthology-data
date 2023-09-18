@@ -1,0 +1,112 @@
+---
+object: card
+id: d898743b-7e0f-4339-963e-aa4232c681ec
+oracle_id: 877bfa3f-6e30-4cb3-831e-d56849b01334
+multiverse_ids:
+- 430424
+tcgplayer_id: 132109
+cardmarket_id: 298154
+name: Orzhov Guildmage
+lang: en
+released_at: '2017-06-09'
+uri: https://api.scryfall.com/cards/d898743b-7e0f-4339-963e-aa4232c681ec
+scryfall_uri: https://scryfall.com/card/cma/205/orzhov-guildmage?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/d/8/d898743b-7e0f-4339-963e-aa4232c681ec.jpg?1592673538
+  normal: https://cards.scryfall.io/normal/front/d/8/d898743b-7e0f-4339-963e-aa4232c681ec.jpg?1592673538
+  large: https://cards.scryfall.io/large/front/d/8/d898743b-7e0f-4339-963e-aa4232c681ec.jpg?1592673538
+  png: https://cards.scryfall.io/png/front/d/8/d898743b-7e0f-4339-963e-aa4232c681ec.png?1592673538
+  art_crop: https://cards.scryfall.io/art_crop/front/d/8/d898743b-7e0f-4339-963e-aa4232c681ec.jpg?1592673538
+  border_crop: https://cards.scryfall.io/border_crop/front/d/8/d898743b-7e0f-4339-963e-aa4232c681ec.jpg?1592673538
+mana_cost: "{W/B}{W/B}"
+cmc: 2.0
+type_line: Creature — Human Wizard
+oracle_text: |-
+  {2}{W}: Target player gains 1 life.
+  {2}{B}: Each player loses 1 life.
+power: '2'
+toughness: '2'
+colors:
+- B
+- W
+color_identity:
+- B
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: fd4d8463-0156-4c60-a40e-778762bb90e4
+set: cma
+set_name: Commander Anthology
+set_type: commander
+set_uri: https://api.scryfall.com/sets/fd4d8463-0156-4c60-a40e-778762bb90e4
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Acma&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/cma?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/d898743b-7e0f-4339-963e-aa4232c681ec/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A877bfa3f-6e30-4cb3-831e-d56849b01334&unique=prints
+collector_number: '205'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Greg Staples
+artist_ids:
+- 93d65564-bf00-447b-8406-e2031f03b6b1
+illustration_id: ced53f78-ec7a-4683-9026-f20bc3788b5e
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 16689
+penny_rank: 13321
+prices:
+  usd: '0.24'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.18'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430424
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Orzhov+Guildmage&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Orzhov+Guildmage&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Orzhov+Guildmage
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/132109?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Orzhov+Guildmage&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Orzhov+Guildmage&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
